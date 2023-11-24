@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header, section, footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    font-size: 0.8em;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
